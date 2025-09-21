@@ -36,6 +36,15 @@ I’m publishing these models so others can improve on the design further.
 | Superglue | - | | - |
 | Hot glue | - | | - |
 
+---
+
+## 🔗 Back to home page
+
+👉 Check out the full competition write-up and project details here:  
+[**Innovedex 2025 Landing Page**](https://github.com/Bhumipat001/Innovedex2025)
+
+---
+
 ## 📜 License
 
 This project is released under the [MIT License](LICENSE).

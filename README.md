@@ -30,9 +30,9 @@ I’m publishing these models so others can improve on the design further.
 | Arduino | 1x |  | [Link](https://th.aliexpress.com/item/1005009234598813.html?algo_pvid=601bae7a-9f13-4656-8be3-268e19ce027a&algo_exp_id=601bae7a-9f13-4656-8be3-268e19ce027a-2&pdp_ext_f=%7B"order"%3A"17"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21THB%21281.68%21107.96%21%21%2160.94%2123.36%21%402101590d17584816976806769ed018%2112000048418002812%21sea%21TH%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5284e86e%3Bm03_new_user%3A-29895%3BpisId%3A5000000174216172&curPageLogUid=ykdnlTB8MFp1&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009234598813%7C_p_origin_prod%3A&utm_medium=cpa&af=7vn49pda4epX&afref=7vn49pda4epX&utm_campaign=7vn49pda4epX&aff_fcid=cf568708baf647dab2aacf4786ff1e89-1758481704179-02695-_oC8eyK7&aff_fsk=_oC8eyK7&aff_platform=api-new-link-generate&sk=_oC8eyK7&aff_trace_key=cf568708baf647dab2aacf4786ff1e89-1758481704179-02695-_oC8eyK7&terminal_id=88bc0b7032054859a494bbf4585492b2&afSmartRedirect=y) |
 | Arduino V5 shield | 1x |  | [Link](https://th.aliexpress.com/item/1005006371318497.html?algo_pvid=446b6fd0-8669-442d-8c5f-bf00dac6a3d6&algo_exp_id=446b6fd0-8669-442d-8c5f-bf00dac6a3d6-4&pdp_ext_f=%7B"order"%3A"106"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21THB%21203.79%2136.40%21%21%2144.09%217.88%21%402101590d17584817189057016ed018%2112000036932401584%21sea%21TH%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5284e86e%3Bm03_new_user%3A-29895%3BpisId%3A5000000174216172&curPageLogUid=carVdCDvTp6x&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006371318497%7C_p_origin_prod%3A&utm_medium=cpa&af=7vn49pda4epX&afref=7vn49pda4epX&utm_campaign=7vn49pda4epX&aff_fcid=9fa36b3e9ad94907bc4e43a75081921d-1758481738956-02279-_oC8eyK7&aff_fsk=_oC8eyK7&aff_platform=api-new-link-generate&sk=_oC8eyK7&aff_trace_key=9fa36b3e9ad94907bc4e43a75081921d-1758481738956-02279-_oC8eyK7&terminal_id=88bc0b7032054859a494bbf4585492b2&afSmartRedirect=y) |
 | Cable wrap | 1x | | - |
-| zip ties | | 1x | | - |
+| zip ties | 1x | | - |
 | oker b08z Camera | 1x | Can use any Camera with USB | - | 
-| Aruidno shield power | | 1x | 6v 3A | - |
+| Aruidno shield power | 1x | 6v 3A | - |
 | Superglue | - | | - |
 | Hot glue | - | | - |
 
